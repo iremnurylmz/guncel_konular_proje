@@ -1,5 +1,5 @@
-# guncel_konular_proje
-SkyKids – ÇOCUKLARA ÖZEL EĞİTİCİ Ve EĞLENCELİ OYUN PLATFORMU
+# SkyKids – ÇOCUKLARA ÖZEL EĞİTİCİ Ve EĞLENCELİ OYUN PLATFORMU
+
 
 Amacımız;
         SkyKids, çocukların zihinsel ve sosyal gelişimlerini desteklemek amacıyla eğitici mini oyunlardan oluşan bir dijital oyun dünyasıdır. Amacımız; uçak yolculularında çocukların yaratıcılık, mantık yürütme, problem çözme ve dil gelişimi gibi becerilerini eğlenceli bir şekilde oyun oynayıp vakit geçirmesidir.
