@@ -7,9 +7,7 @@ SkyKids, uzun uçuşlarda çocukların sıkılmasını engellerken aynı zamanda
 
 SkyKids, ebeveynlerin çocuklarının eğlenmesini ve aynı zamanda faydalı aktivitelerle vakit geçirmesini sağlayarak, uçuşları daha huzurlu hale getirmelerine yardımcı olur.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5b52d13d-c570-4a1a-926b-5d6a2d2b3235" alt="SkyKids" />
-</p>
+![Image](https://github.com/user-attachments/assets/efdb511c-9689-4a8f-8179-30a8423f8b4a)
 
 
 ## Amaç
