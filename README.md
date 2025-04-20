@@ -20,9 +20,10 @@ SkyKids, çocukların eğlenerek öğrenmelerini sağlamayı ve uçak yolculukla
 - **Tablet Üzerinden Oyun**: Çocuklar, uçuş görevlisi tarafından sağlanan tabletler üzerinden oyun oynar.
 - **Ödeme Sistemi**: Ebeveynler, çocuklarının oynayacağı oyunları seçer ve süreye bağlı ödeme yapar.
 
-  ##Dokümantasyon ve diyagramlarımız 
+## Dokümantasyon ve diyagramlarımız 
 https://github.com/iremnurylmz/guncel_konular_proje/tree/main/Diyagramlar
- 
+
+
 ## Web Sitesi
 SkyKids hakkında daha fazla bilgi almak ve projeyi keşfetmek için [web sitemizi ziyaret edin](https://iremnurylmz.github.io/skykids.github.io/).
 
