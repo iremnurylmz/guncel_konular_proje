@@ -34,7 +34,7 @@ SkyKids projesinde kullanılan başlıca teknolojiler:
 
 ## Katkıda Bulunanlar
 
-- **İrem Yılmaz**
+- **İremnur Yılmaz**
 - **Tuğçe Şerbetçi**
 
 ## Proje Yönetimi
