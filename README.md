@@ -13,8 +13,7 @@ Amacımız;
   Seviye sistemi ile öğrenme ilerlemesi
 
 
-🌍 Web Sitesi
-Projemizi daha yakından tanımak için web sitemizi ziyaret edin:
+🌍 Web Sitesi: Projemizi daha yakından tanımak için web sitemizi ziyaret edin:
      🔗   https://iremnurylmz.github.io/skykids.github.io/
 
 
