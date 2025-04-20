@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SkyKids</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #00BFFF;
+      --secondary: #E0F7FA;
+      --accent: #4FC3F7;
+      --dark: #263238;
+      --light: #ffffff;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Fredoka', sans-serif;
+      background-color: var(--secondary);
+      color: var(--dark);
+    }
+
+    header {
+      background: linear-gradient(to right, #00BFFF, #4FC3F7);
+      color: var(--light);
+      text-align: center;
+      padding: 50px 20px;
+      border-bottom: 5px solid #ffffff;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      animation: float 3s ease-in-out infinite;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0); }
+    }
+
+    nav {
+      background-color: var(--primary);
+      display: flex;
+      justify-content: center;
+      padding: 15px;
+      gap: 40px;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: var(--light);
+      text-decoration: none;
+      font-size: 1.1rem;
+      font-weight: bold;
+      padding: 5px 10px;
+      border-radius: 8px;
+      transition: background-color 0.3s;
+    }
+
+    nav a:hover {
+      background-color: var(--accent);
+    }
+
+    section {
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: var(--light);
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    }
+
+    #ana {
+      background-color: #b3e5fc;
+      color: #003c58;
+    }
+
+    #ana div {
+      background-color: #4fc3f7;
+      color: white;
+      padding: 40px;
+      border-radius: 16px;
+      font-size: 1.1rem;
+      line-height: 1.8;
+    }
+
+    .oyunlar h2 {
+      text-align: center;
+      font-size: 2.2rem;
+      margin-bottom: 30px;
+      color: var(--primary);
+    }
+
+    .oyun-kart-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 30px;
+    }
+
+    .oyun-kart-row {
+      display: flex;
+      justify-content: center;
+      gap: 25px;
+      flex-wrap: wrap;
+    }
+
+    .oyun-kart {
+      position: relative;
+      width: 220px;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      transition: transform 0.3s;
+    }
+
+    .oyun-kart:hover {
+      transform: scale(1.05);
+    }
+
+    .oyun-kart img {
+      width: 100%;
+      height: 220px;
+      object-fit: cover;
+    }
+
+    .oyun-aciklama {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      padding: 12px;
+      text-align: center;
+      background-color: rgba(0, 191, 255, 0.9);
+      color: white;
+      font-weight: bold;
+    }
+
+    #hakkimizda, #iletisim {
+      font-size: 1.1rem;
+      line-height: 1.8;
+    }
+
+    footer {
+      background-color: var(--primary);
+      color: var(--light);
+      text-align: center;
+      padding: 25px;
+      margin-top: 40px;
+      border-top: 5px solid white;
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      header h1 {
+        font-size: 2rem;
+      }
+
+      .oyun-kart-row {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🎈 SkyKids -  Eğlenceli ve Eğitici Oyun Dünyası ☁️</h1>
+  </header>
+
+  <nav>
+    <a href="#ana">Ana Sayfa</a>
+    <a href="#oyunlar">Oyunlar</a>
+    <a href="#hakkimizda">Hakkımızda</a>
+    <a href="#iletisim">İletişim</a>
+  </nav>
+
+  <section id="ana">
+    <div>
+      <h2>Hoş Geldiniz!</h2>
+      <p>🎮 SkyKids'e hoş geldiniz çocuklar! Eğlenirken öğrenebileceğiniz renkli ve neşeli bir dünyaya adım attınız. Renkleri keşfedin, sayılarla oynayın, hafızanızı test edin ve daha fazlasını yapın! Her oyun sizlere eğlenceli bilgiler sunarken, hayal gücünüzü geliştirmenize yardımcı olur. 🚀 Hazırsanız başlayalım!</p>
+    </div>
+  </section>
+
+  <section id="oyunlar" class="oyunlar">
+    <h2>Oyunlarımız</h2>
+    <div class="oyun-kart-wrapper">
+      <div class="oyun-kart-row">
+        <div class="oyun-kart">
+          <img src="https://static.ticimax.cloud/31467/uploads/urunresimleri/buyuk/dekor-loft-sirin-sayilar-cocuk-odasi-sti-432e.jpg" alt="Sayı Avcısı">
+          <div class="oyun-aciklama">Sayı Avcısı</div>
+        </div>
+        <div class="oyun-kart">
+          <img src="https://png.pngtree.com/element_origin_min_pic/16/11/27/0744b5e4d3837aa6eb5f8bbf750dc84c.jpg" alt="Boyama Kitabım">
+          <div class="oyun-aciklama">Boyama Kitabım</div>
+        </div>
+        <div class="oyun-kart">
+          <img src="https://www.rekoroyun.com/resim/hafiza-kartlari.jpg" alt="Hafıza Kartları">
+          <div class="oyun-aciklama">Hafıza Kartları</div>
+        </div>
+      </div>
+      <div class="oyun-kart-row">
+        <div class="oyun-kart">
+          <img src="https://i.pinimg.com/1200x/78/c6/36/78c636fd71ece7857578a972f7131bfe.jpg" alt="Desen Takibi">
+          <div class="oyun-aciklama">Desen Takibi</div>
+        </div>
+        <div class="oyun-kart">
+          <img src="https://sgdd.org.tr/wp-content/uploads/2023/04/cocuk_1.png" alt="Refleks Oyunu">
+          <div class="oyun-aciklama">Refleks Oyunu</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="hakkimizda">
+    <h2>Hakkımızda</h2>
+    <p>SkyKids, çocukların oyun oynayarak eğlenmesini ve öğrenmesini sağlayan bir dijital platformdur. Her yaş grubuna uygun, eğitici ve eğlenceli içerikler sunuyoruz. Amacımız çocukların gelişimine katkı sağlarken keyifli vakit geçirmelerini sağlamak.</p>
+  </section>
+
+  <section id="iletisim">
+    <h2>İletişim</h2>
+    <p>SkyKids uygulamasını uçuş sırasında kullanmak için THY kabin personelinden yardım alabilirsiniz.</p>
+    <p><strong>Email:</strong> <a href="mailto:iletisim@skykids.com">iletisim@skykids.com</a></p>
+  </section>
+
+  <footer>
+    © 2025 SkyKids. Tüm hakları saklıdır. ✈️
+  </footer>
+
+</body>
+</html>
