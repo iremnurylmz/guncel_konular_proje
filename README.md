@@ -66,3 +66,16 @@ Proje geliştirilirken kullanılan ortam:
 ## Mobil Uygulamamızın Tanıtım Videosu
 
  🔗 https://www.youtube.com/watch?v=6bx5dM4imCQ
+
+
+ ## 🚀Kurulum
+### 1. Depoyu Klonlayın
+- git clone https://github.com/iremnurylmz/guncel_konular_proje.git
+cd guncel_konular_proje
+
+### 2. Gerekli Paketleri Kurun
+- npm install
+
+### 3. Expo Go Kullanarak Çalıştırın
+- npx expo start komutu ile Expo Go uygulamasınında gelen qr ı okutarak çalıştırılabilir.
+ 
