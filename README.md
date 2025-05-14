@@ -10,15 +10,12 @@ SkyKids, çocukların eğlenerek öğrenmelerini sağlamayı ve uçak yolculukla
 
 ## Özellikler
 
-Eğitici Mini Oyunlar: Matematik, hafıza güçlendirme, refleks geliştirme gibi kategorilerde çeşitli oyunlar.
+- 🎮 **Eğitici Mini Oyunlar:** Matematik, hafıza güçlendirme, refleks geliştirme gibi kategorilerde çeşitli oyunlar.  
+- 🧾 **Koltuk Arkası Broşür Tanıtımı:** Ebeveynler ve çocuklar oyunların görsellerine ulaşabilir ve detaylı bilgi alabilirler.  
+- 👶 **Yaş Grubuna Göre Oyunlar:** Farklı yaş gruplarına yönelik özelleştirilmiş oyunlar (özellikle 6–9 yaş arası çocuklar için).  
+- 📱 **Tablet Üzerinden Oyun:** Çocuklar, uçuş görevlisi tarafından sağlanan tabletler üzerinden oyun oynar.  
+- 💳 **Ödeme Sistemi:** Ebeveynler, çocuklarının oynayacağı oyunları seçer ve süreye bağlı ödeme yapar.
 
-Koltuk Arkası Broşür Tanıtımı: Ebeveynler ve çocuklar oyunların görsellerine ulaşabilir ve detaylı bilgi alabilirler.
-
-Yaş Grubuna Göre Oyunlar: Farklı yaş gruplarına yönelik özelleştirilmiş oyunlar (özellikle 6-9 yaş arası çocuklar için).
-
-Tablet Üzerinden Oyun: Çocuklar, uçuş görevlisi tarafından sağlanan tabletler üzerinden oyun oynar.
-
-Ödeme Sistemi: Ebeveynler, çocuklarının oynayacağı oyunları seçer ve süreye bağlı ödeme yapar.
 
 ![WhatsApp Görsel 2025-04-20 saat 18 47 23_54a0c507](https://github.com/user-attachments/assets/70b3fe60-c2c1-4a93-8164-dba714e35152)
 
@@ -36,9 +33,10 @@ Projemizi daha yakından tanımak için web sitemizi ziyaret edin:
 
 
 ## Kullanım
-•	Ebeveynler, SkyKids web sitesi üzerinden uygulamayı öğrenebilir ve detaylı bilgi alabilir.
-•	Çocuklar, hostes aracılığıyla sağlanan tabletler üzerinden saatlik ücret karşılığında oyun oynayabilir.
-•	Oyunlar, yaş grubuna (6 – 9 yaş aralığı) göre özelleştirilmiştir ve seviye geçtikçe gelişim desteklenir.
+
+- 👨‍👩‍👧‍👦 Ebeveynler, SkyKids web sitesi üzerinden uygulamayı öğrenebilir ve detaylı bilgi alabilir.  
+- 📱 Çocuklar, hostes aracılığıyla sağlanan tabletler üzerinden saatlik ücret karşılığında oyun oynayabilir.  
+- 🧠 Oyunlar, yaş grubuna (6–9 yaş aralığı) göre özelleştirilmiştir ve seviye geçtikçe gelişim desteklenir.
 
 
 ## Teknolojiler
