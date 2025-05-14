@@ -97,3 +97,7 @@ npm install
 ```bash
 npx expo start
  ```
+
+Tarayıcıda açılan Expo arayüzünden QR kodu tarayarak uygulamayı mobil cihazınızda çalıştırabilirsiniz.
+
+Not: Cihazınızda Expo Go uygulamasının yüklü olması gerekmektedir. Expo Go uygulamasını App Store veya Google Play üzerinden indirebilirsiniz.
