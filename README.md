@@ -15,12 +15,16 @@ Yaş Grubuna Göre Oyunlar: Farklı yaş gruplarına yönelik özelleştirilmiş
 Tablet Üzerinden Oyun: Çocuklar, uçuş görevlisi tarafından sağlanan tabletler üzerinden oyun oynar.
 
 Ödeme Sistemi: Ebeveynler, çocuklarının oynayacağı oyunları seçer ve süreye bağlı ödeme yapar.
+
+
                                      ![WhatsApp Görsel 2025-04-20 saat 18 47 23_54a0c507](https://github.com/user-attachments/assets/30b72e54-4eef-474d-8bd0-7f1bc1eeb884)
 
 
-🌍 Web Sitesi
+## 🌍 Web Sitesi
+
 Projemizi daha yakından tanımak için web sitemizi ziyaret edin:
 🔗 https://iremnurylmz.github.io/skykids.github.io/
+
 
 ![image](https://github.com/user-attachments/assets/cba49bd4-fc62-4a3e-8af5-dbb52ff8b41f)
 
