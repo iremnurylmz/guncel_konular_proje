@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkyKids</title>
+    <style>
+        @keyframes zıpla {
+            0%   { transform: translateY(0); }
+            50%  { transform: translateY(-10px); }
+            100% { transform: translateY(0); }
+        }
+
+        @keyframes parla {
+            0% { background-color: #A0D8F1; }
+            50% { background-color: #c4fafc; }
+            100% { background-color: #A0D8F1; }
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Comic Sans MS', cursive;
+            background: linear-gradient(135deg, #71eef2, #4bbafa); /* Geçişli arka plan */
+            background-size: cover;
+            color: #333;
+        }
+        header {
+            background-color: #00BFFF;
+            padding: 20px;
+            text-align: center;
+            color: white;
+            animation: zıpla 2s infinite;
+        }
+        nav {
+            background-color: #31b6df;
+            display: flex;
+            justify-content: center;
+            padding: 10px;
+            animation: parla 5s infinite;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        nav a:hover {
+            color: #2a2a72;
+            transform: scale(1.1);
+        }
+        section {
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0);
+            border-radius: 15px;
+            margin: 20px;
+            border: 5px solid transparent; /* Şeffaf çerçeve */
+        }
+        .oyunlar {
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.oyunlar h2 {
+    font-size: 2rem;
+    color: #00BFFF;
+    margin-bottom: 20px;
+}
+
+.oyun-kart-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.oyunlar .oyun-kart {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    border: 5px solid transparent; /* Şeffaf çerçeve */
+    border-radius: 15px;
+    background-size: cover;
+    background-position: center;
+    background-color: #e0f7ff00;
+    box-shadow: 2px 2px 10px rgb(0, 0, 0);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+}
+
+.oyunlar .oyun-kart:hover {
+    transform: scale(1.1);
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.867);
+}
+
+.oyun-kart .oyun-aciklama {
+    background-color: #00BFFF;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+}
+
+/* Alt sıradaki iki kartı ortalayacak şekilde düzenle */
+.oyun-kart-container-alt {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Resimlerin hizalanması */
+.oyun-kart-container {
+    justify-content: center;
+}
+
+        footer {
+            background-color: #00BFFF;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+            animation: zıpla 3s infinite;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>☁️ SkyKids - Eğlenceli ve Eğitici Oyun Dünyası 🎈</h1>
+    </header>
+    <nav>
+        <a href="#ana">Ana Sayfa</a>
+        <a href="#oyunlar">Oyunlarımız</a>
+        <a href="#hakkimizda">Hakkımızda</a>
+        <a href="#iletisim">İletişim</a>
+    </nav>
+
+    <section id="ana" style="background-image: url('https://i.pinimg.com/736x/6c/e2/0d/6ce20dabd7bbb90ddc5f50225e6cb280.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed; padding: 10px; position: relative; color: white;">
+        <div style="background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 55px;">
+            <h2 style="text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">Hoş Geldiniz!</h2>
+            <p style="text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">SkyKids'e Hoş Geldiniz! 🎮🌟
+
+                
+                
+                
+                Merhaba çocuklar! 😊
+
+                
+                SkyKids, sizler için tasarlanmış en eğlenceli ve öğretici oyun dünyası! Eğlenceli oyunlarla hem zihinsel gelişiminize katkıda bulunacak hem de yepyeni şeyler öğreneceksiniz. Burada, sayıların, harflerin, renklerin, şekillerin ve çok daha fazlasının eğlenceli yollarla keşfedeceğiniz bir dünya sizleri bekliyor!
+                
+                Hedefimiz, çocukların oyun oynarken aynı zamanda yaratıcılıklarını, mantık becerilerini ve problem çözme yeteneklerini geliştirmelerine yardımcı olmak. Her oyun, farklı yaş gruplarına hitap eder ve her biri, çocukların öğrenmesini ve eğlenmesini sağlayacak şekilde tasarlanmıştır. 💡
+                
+                Oyunlarımız, çocukları yeni bilgilerle tanıştırırken, onların karar verme, dikkat ve strateji oluşturma becerilerini de güçlendiriyor. Eğlenceli grafikler, sevimli karakterler ve renkli dünyalarla dolu bir keşif yolculuğuna çıkmaya hazır mısınız? 🌈
+                
+                SkyKids'te sadece eğlenmekle kalmaz, aynı zamanda sosyal beceriler kazanır, dil gelişiminizi destekler ve yaratıcılığınızı artırırsınız. Kendi hızınızda oyunlar oynayabilir, başarılarınızı arkadaşlarınızla paylaşabilir ve her yeni seviyede kendinizi daha da geliştirirsiniz. 🚀
+                
+                Hadi gelin, hayal gücünüzü serbest bırakın ve bu renkli, eğlenceli dünyaya katılın! SkyKids ile her anınız eğlenceli ve öğretici olacak! 🌟
+                
+
+
+                
+                </p>
+        </div>
+    </section>
+    
+   
+
+    <section id="oyunlar" class="oyunlar">
+        <h2>Oyunlarımız</h2>
+        <div class="oyun-kart-container">
+            <!-- İlk üç oyun kartı (yan yana) -->
+            <div class="oyun-kart" style="background-image: url('https://static.ticimax.cloud/31467/uploads/urunresimleri/buyuk/dekor-loft-sirin-sayilar-cocuk-odasi-sti-432e.jpg');">
+                <div class="oyun-aciklama">Sayı Avcısı</div>
+            </div>
+            <div class="oyun-kart" style="background-image: url('https://png.pngtree.com/element_origin_min_pic/16/11/27/0744b5e4d3837aa6eb5f8bbf750dc84c.jpg');">
+                <div class="oyun-aciklama">Boyama Kitabım</div>
+            </div>
+            <div class="oyun-kart" style="background-image: url('https://www.rekoroyun.com/resim/hafiza-kartlari.jpg');">
+                <div class="oyun-aciklama">Hafıza Kartları</div>
+            </div>
+        </div>
+        <div class="oyun-kart-container-alt">
+            <!-- İkinci sıradaki iki oyun kartı (ortalanmış ve yan yana) -->
+            <div class="oyun-kart" style="background-image: url('https://i.pinimg.com/1200x/78/c6/36/78c636fd71ece7857578a972f7131bfe.jpg');">
+                <div class="oyun-aciklama">Desen Takibi</div>
+            </div>
+            <div class="oyun-kart" style="background-image: url('https://sgdd.org.tr/wp-content/uploads/2023/04/cocuk_1.png');">
+                <div class="oyun-aciklama">Refleks Oyunu</div>
+            </div>
+        </div>
+    </section>
+    
+    
+    
+
+
+    <section id="hakkimizda">
+        <h2>Hakkımızda</h2>
+        <p>Oyun Parkı, çocukların eğlenirken öğrenmesini amaçlayan bir oyun mobil uygulamasıdır. Amacımız, çocuklara eğitici oyunlarla kaliteli vakit sunmaktır.</p>
+    </section>
+
+
+
+    <section id="iletisim">
+        <h2>İletişim</h2>
+        <p>Bize ulaşmak için THY Hava Çalışanları ile iletişime geçerek uygulamayı yolculuğunuzda kullanabilirsiniz. </p>
+        <p><strong>Email:</strong> <a href="">iletisim</a></p>
+    </section>
+
+    <footer>
+        &copy; 2025 SkyKids. Tüm hakları saklıdır.
+    </footer>
+</body>
+</html>
