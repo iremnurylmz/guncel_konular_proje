@@ -58,9 +58,9 @@ Bu projeye katkıda bulunanlar:
 - Tuğçe Şerbetçi
 
 
-## Trello Hesabımız
-
-🔗 https://trello.com/b/Q4S4CkRU/skaykids
+## Proje Yönetimi
+Proje geliştirilirken kullanılan ortam:
+- [Trello - SkyKids Proje Yönetimi] https://trello.com/b/Q4S4CkRU/skaykids
 
 
 ## Mobil Uygulamamızın Tanıtım Videosu
