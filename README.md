@@ -46,7 +46,7 @@ Bu projede kullanılan başlıca teknolojiler:
 - 🌐 **Web:** React  
 - 📱 **Mobil:** React Native + Expo Go  
 - 💾 **Veritabanı:** Firebase  
-- 💬 **Sohbet Özelliği:** Firebase Chat
+
 
 
 
