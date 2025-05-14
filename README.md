@@ -1,4 +1,4 @@
-## SkyKids – ÇOCUKLARA ÖZEL EĞİTİCİ Ve EĞLENCELİ OYUN PLATFORMU
+## SkyKids – ÇOCUKLARA ÖZEL EĞİTİCİ ve EĞLENCELİ OYUN PLATFORMU
 
 ## Amacımız
 
