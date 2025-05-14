@@ -1,11 +1,14 @@
-## SkyKids – ÇOCUKLARA ÖZEL EĞİTİCİ ve EĞLENCELİ OYUN PLATFORMU
+# ✈️ SkyKids – Çocuklara Özel Eğitici ve Eğlenceli Oyun Platformu
 
-Skykids, uçak yolculuklarını çocuklar için daha keyifli ve öğretici hale getiren bir mobil uygulamadır. Uçakta koltuk arkası broşürlerinde tanıtımı yapılan bu uygulama, ebeveynlere ve çocuklara oyunların görsellerini sunar. İlgilenenler, broşürdeki yönlendirme ile Skykids web sitesine giderek hakkında daha fazla bilgi edinebilirler.  Çocuklar oyunu oynamak istediklerinde, uçuş görevlisinden (hostes) bir tablet talep ederler. Ebeveynler, çocuğun hangi oyunu ne kadar süreyle oynayacağını belirleyebilir ve buna göre ödeme yaparlar. Uygulama içerisinde farklı yaş gruplarına hitap eden çeşitli oyunlar bulunur. Bunlar genellikle matematik becerilerini geliştirmeye yönelik oyunlar, hafızayı güçlendiren zeka oyunları ve hızlı tepki verme yeteneğini ölçen refleks oyunları gibi kategorilere ayrılır.
+Skykids, uçak yolculuklarını çocuklar için daha keyifli ve öğretici hale getiren bir mobil uygulamadır. Uçakta koltuk arkası broşürlerinde tanıtımı yapılan bu uygulama, ebeveynlere ve çocuklara oyunların görsellerini sunar. İlgilenenler, broşürdeki yönlendirme ile [SkyKids web sitesine](https://iremnurylmz.github.io/skykids.github.io/) giderek hakkında daha fazla bilgi edinebilirler.  Çocuklar oyunu oynamak istediklerinde, uçuş görevlisinden (hostes) bir tablet talep ederler. Ebeveynler, çocuğun hangi oyunu ne kadar süreyle oynayacağını belirleyebilir ve buna göre ödeme yaparlar. Uygulama içerisinde farklı yaş gruplarına hitap eden çeşitli oyunlar bulunur. Bunlar genellikle matematik becerilerini geliştirmeye yönelik oyunlar, hafızayı güçlendiren zeka oyunları ve hızlı tepki verme yeteneğini ölçen refleks oyunları gibi kategorilere ayrılır.
 Skykids, uzun uçuşlarda çocukların sıkılmasını önlemeye yardımcı olurken aynı zamanda onların eğlenerek öğrenmelerine de katkı sağlar. Ebeveynler, çocuklarının hem eğlenmesini hem de faydalı aktivitelerle vakit geçirmesini sağlayarak yolculuklarını daha huzurlu hale getirebilirler.
+
 
 ## Amacımız
 
 SkyKids, çocukların eğlenerek öğrenmelerini sağlamayı ve uçak yolculuklarında onların gelişimine katkıda bulunmayı amaçlayan bir platformdur. Uygulama, farklı yaş gruplarına hitap eden eğitici oyunlarla çocukların yaratıcılık, mantık yürütme ve problem çözmesine katkı sağlar.
+
+
 
 
 ## Özellikler
@@ -17,65 +20,80 @@ SkyKids, çocukların eğlenerek öğrenmelerini sağlamayı ve uçak yolculukla
 - 💳 **Ödeme Sistemi:** Ebeveynler, çocuklarının oynayacağı oyunları seçer ve süreye bağlı ödeme yapar.
 
 
-![WhatsApp Görsel 2025-04-20 saat 18 47 23_54a0c507](https://github.com/user-attachments/assets/70b3fe60-c2c1-4a93-8164-dba714e35152)
-
-
+---
 
 ## 🌍 Web Sitesi
 
-Projemizi daha yakından tanımak için web sitemizi ziyaret edin:
-🔗 https://iremnurylmz.github.io/skykids.github.io/
+Projemizi incelemek ve detaylı bilgi almak için:  
+🔗 [https://iremnurylmz.github.io/skykids.github.io/](https://iremnurylmz.github.io/skykids.github.io/)
 
-
+<br>
 
 ![Ekran görüntüsü 2025-05-14 193951](https://github.com/user-attachments/assets/26517f82-6284-442d-ba0b-528f3f981434)
 
 
+---
 
-## Kullanım
+## 📲 Kullanım
 
-- 👨‍👩‍👧‍👦 Ebeveynler, SkyKids web sitesi üzerinden uygulamayı öğrenebilir ve detaylı bilgi alabilir.  
-- 📱 Çocuklar, hostes aracılığıyla sağlanan tabletler üzerinden saatlik ücret karşılığında oyun oynayabilir.  
-- 🧠 Oyunlar, yaş grubuna (6–9 yaş aralığı) göre özelleştirilmiştir ve seviye geçtikçe gelişim desteklenir.
+- 👨‍👩‍👧‍👦 Ebeveynler, SkyKids web sitesi üzerinden oyunlar hakkında bilgi alabilir.  
+- 📱 Çocuklar, hostes aracılığıyla temin edilen tabletler üzerinden saatlik ücret karşılığında oyun oynayabilir.  
+- 🧠 Oyunlar, yaşa özel olarak tasarlanmış seviyelerle çocukların gelişimine katkı sağlar.
 
+---
 
-## Teknolojiler
-
-Bu projede kullanılan başlıca teknolojiler:
+## 🛠️ Kullanılan Teknolojiler
 
 - 🌐 **Web:** React  
 - 📱 **Mobil:** React Native + Expo Go  
-- 💾 **Veritabanı:** Firebase  
+- 🔥 **Veritabanı:** Firebase
 
+---
 
-
-
-## Katkıda Bulunanlar
-
-Bu projeye katkıda bulunanlar:
+## 👥 Katkıda Bulunanlar
 
 - İrem Yılmaz  
 - Tuğçe Şerbetçi
 
+---
 
-## Proje Yönetimi
-Proje geliştirilirken kullanılan ortam:
-- [Trello - SkyKids Proje Yönetimi] https://trello.com/b/Q4S4CkRU/skaykids
+## 📌 Trello Proje Takibi
+
+🔗 [SkyKids Trello Tahtası](https://trello.com/b/Q4S4CkRU/skaykids)
+
+---
+
+## 🎥 Tanıtım Videosu
+
+📺 [YouTube'da İzle](https://www.youtube.com/watch?v=6bx5dM4imCQ)
+
+---
 
 
-## Mobil Uygulamamızın Tanıtım Videosu
+## ⚙️ Kurulum Adımları
 
- 🔗 https://www.youtube.com/watch?v=6bx5dM4imCQ
+SkyKids mobil uygulamasını yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
-
- ## 🚀Kurulum
 ### 1. Depoyu Klonlayın
-- git clone https://github.com/iremnurylmz/guncel_konular_proje.git
+
+Aşağıdaki komutu terminalde çalıştırarak projeyi bilgisayarınıza klonlayın:
+
+```bash
+git clone https://github.com/iremnurylmz/guncel_konular_proje.git
+ ```
+
+```bash
 cd guncel_konular_proje
-
+ ```
 ### 2. Gerekli Paketleri Kurun
-- npm install
 
-### 3. Expo Go Kullanarak Çalıştırın
-- npx expo start komutu ile Expo Go uygulamasınında gelen qr ı okutarak çalıştırılabilir.
- 
+Proje dizininde aşağıdaki komutu çalıştırarak tüm bağımlılıkları yükleyin:
+```bash 
+npm install
+ ```
+
+### 3. Uygulamayı Başlatın (Expo Go ile)
+
+```bash
+npx expo start
+ ```
