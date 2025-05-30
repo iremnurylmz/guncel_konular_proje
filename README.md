@@ -70,34 +70,10 @@ Projemizi incelemek ve detaylı bilgi almak için:
 ---
 
 
-## ⚙️ Kurulum Adımları
+## ⚙️ Kurulum Adımları (apk yı indirebilirsiniz)
 
-SkyKids mobil uygulamasını yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
-### 1. Depoyu Klonlayın
 
-Aşağıdaki komutu terminalde çalıştırarak projeyi bilgisayarınıza klonlayın:
 
-```bash
-git clone https://github.com/iremnurylmz/guncel_konular_proje.git
- ```
 
-```bash
-cd guncel_konular_proje
- ```
-### 2. Gerekli Paketleri Kurun
 
-Proje dizininde aşağıdaki komutu çalıştırarak tüm bağımlılıkları yükleyin:
-```bash 
-npm install
- ```
-
-### 3. Uygulamayı Başlatın (Expo Go ile)
-
-```bash
-npx expo start
- ```
-
-Tarayıcıda açılan Expo arayüzünden QR kodu tarayarak uygulamayı mobil cihazınızda çalıştırabilirsiniz.
-
-Not: Cihazınızda Expo Go uygulamasının yüklü olması gerekmektedir. Expo Go uygulamasını App Store veya Google Play üzerinden indirebilirsiniz.
