@@ -70,7 +70,8 @@ Projemizi incelemek ve detaylı bilgi almak için:
 ---
 
 
-## ⚙️ Kurulum Adımları (apk yı indirebilirsiniz)
+## ⚙️ Kurulum Adımları (apk yı linkten indirebilirsiniz)
+🔗 https://expo.dev/accounts/yefasi8196/projects/MyNewApp/builds/a2bb0f8f-6038-49d8-aab5-8b4c455a7822 
 
 
 
